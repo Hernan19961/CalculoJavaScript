@@ -1,0 +1,82 @@
+*{
+    margin: 0;
+    background-color: green;
+
+    
+}
+
+
+
+.card img{
+    width: 70%;
+}
+
+.card{
+    border: solid 1px none;
+    padding: 109px 20px;
+    width: 63%;
+    text-align: center;
+    background-color: green;
+}
+
+.inputs{
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+    align-items: center;
+    
+    
+}
+
+.inputs input{
+    width: 50%;
+    background-color: white;
+    
+    
+}
+
+
+.resultado{
+    border: solid 1px none;
+    width: 40%;
+    font-size: 35px;
+    
+
+    
+    
+
+}
+
+.container{
+    display: flex;
+    align-items: center;
+
+    
+    
+    
+}
+
+.color{
+    width: 25px;
+    height: 25px;
+    border-radius: 50%;
+    background-color: black;
+    
+    
+    
+    
+}
+
+#button{
+    padding: 10px 60px;
+    background-color: white;
+    font-size: 25px;
+    cursor: pointer;
+}
+
+.hinder{
+    display: flex;
+    align-items: center;
+}
+
+
